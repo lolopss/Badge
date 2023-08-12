@@ -10,6 +10,10 @@
 
 [![ldaniel's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cli5noooh001108meqhdmpkcd/project/3085329)](https://github.com/JaeSeoKim/badge42)
 
-[![ldaniel's 42 so_long Score](https://badge42.vercel.app/api/v2/cli5noooh001108meqhdmpkcd/project/3091219)](https://github.com/JaeSeoKim/badge42)
-
 [![ldaniel's 42 pipex Score](https://badge42.vercel.app/api/v2/cli5noooh001108meqhdmpkcd/project/3104126)](https://github.com/JaeSeoKim/badge42)
+
+[![ldaniel's 42 push_swap Score](https://badge42.vercel.app/api/v2/cli5noooh001108meqhdmpkcd/project/3109819)](https://github.com/JaeSeoKim/badge42)
+
+[![ldaniel's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cli5noooh001108meqhdmpkcd/project/3175648)](https://github.com/JaeSeoKim/badge42)
+
+[![ldaniel's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cli5noooh001108meqhdmpkcd/project/3191514)](https://github.com/JaeSeoKim/badge42)
